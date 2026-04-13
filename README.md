@@ -1,4 +1,4 @@
-# 🔍 Credit Card Fraud Detection — Tim 2
+# 🔍 Credit Card Fraud Detection
 
 > Proyek Machine Learning untuk mendeteksi transaksi kartu kredit yang bersifat fraudulent menggunakan dataset transaksi nyata.
 
@@ -157,9 +157,9 @@ pip install imbalanced-learn
 
 ---
 
-## 👥 Tim
+## 
 
-**Tim 2 — AR**
+**AR**
 
 ---
 
